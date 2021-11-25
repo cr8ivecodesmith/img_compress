@@ -42,3 +42,11 @@ cjpeg ...
 ```
 oxipng ...
 ```
+
+
+## References
+
+- https://www.caseyhofford.com/2019/05/01/improved-image-compression-install-mozjpeg-on-ubuntu-server/
+- https://github.com/mozilla/mozjpeg
+- https://github.com/shssoichiro/oxipng
+- https://squoosh.app/
